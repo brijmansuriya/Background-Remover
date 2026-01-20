@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ClearCut AI - Background Remover",
+  "description": "Professional AI-powered tool to remove image backgrounds instantly for products, portraits, and marketing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
